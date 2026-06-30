@@ -23,6 +23,13 @@ Desde então, o Git passou por melhorias e se tornou uma ferramenta relativament
 - https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Uma-Breve-Hist%C3%B3ria-do-Git
 
 
+# O que é Git e para que serve?
+
+Em uma equipe, apenas poder acessar o código de outras pessoas colaboradoras não é suficiente.
+Mais do que isso: precisamos manter o histórico dos nossos arquivos e das nossas modificações.
+Afinal de contas, muitas vezes mudamos arquivos em grupo, num movimento único — que, no contexto do Git, é um commit. O que, em tradução literal para português, significa “compromisso” ou “comprometer-se” às alterações em um repositório.
+Dessa forma, podemos voltar atrás e recuperar o estado do sistema: como ele era ontem, ou no ano passado, comparar as mudanças para encontrar bugs e estudar otimizações.
+
 # Primeiros comandos
  
 ## Alô, Mundo! do Git
