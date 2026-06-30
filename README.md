@@ -83,7 +83,7 @@ https://www.cursoemvideo.com/curso/curso-de-git-e-github/
 
 * https://myoctocat.com/
 
-<img width="400" height="400" alt="octocat-1782793135842" src="https://github.com/user-attachments/assets/6b8b4c1b-968d-4556-abb6-a388c205f44d" />
+<img width="200" height="200" alt="octocat-1782793135842" src="https://github.com/user-attachments/assets/6b8b4c1b-968d-4556-abb6-a388c205f44d" />
 
 
 
