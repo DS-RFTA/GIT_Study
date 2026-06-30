@@ -79,7 +79,7 @@ https://cursos.teomewhy.org/trilhas
 
 https://www.cursoemvideo.com/curso/curso-de-git-e-github/
 
-# Crie seu octcat
+# Crie seu Octocat
 
 * https://myoctocat.com/
 
