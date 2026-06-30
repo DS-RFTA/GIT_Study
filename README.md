@@ -15,12 +15,12 @@ Se o comando retornar o número da versão, o Git está pronto para uso.
 Se retornar um erro como "comando não encontrado" (command not found), significa que o Git não está instalado ou que as variáveis de ambiente (PATH) não foram configuradas corretamente
 
 
-Instalação e configuração
+# Instalação e configuração
 
-Configure Git no seu computador com nome e e-mail.
+## Configure Git no seu computador com nome e e-mail.
 
-Prática: No Terminal Git bash digite: 
+### Prática: No Terminal Git bash digite: 
 
-git config --global user.name 
-git config --global user.email.
+* git config --global user.name 
+* git config --global user.email
 
