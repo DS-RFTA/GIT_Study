@@ -52,3 +52,12 @@ Se retornar um erro como "comando não encontrado" (command not found), signific
 * git config --global user.name 
 * git config --global user.email
 
+
+# Curso Git e GitHub Gratuitos
+
+
+https://cursos.teomewhy.org/trilhas
+
+
+https://www.cursoemvideo.com/curso/curso-de-git-e-github/
+
