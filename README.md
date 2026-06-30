@@ -79,9 +79,12 @@ https://cursos.teomewhy.org/trilhas
 
 https://www.cursoemvideo.com/curso/curso-de-git-e-github/
 
-
-<img width="2000" height="2000" alt="octocat-1782793135842" src="https://github.com/user-attachments/assets/6b8b4c1b-968d-4556-abb6-a388c205f44d" />
-
 # Crie seu octcat
 
-https://myoctocat.com/
+* https://myoctocat.com/
+
+<img width="400" height="400" alt="octocat-1782793135842" src="https://github.com/user-attachments/assets/6b8b4c1b-968d-4556-abb6-a388c205f44d" />
+
+
+
+
