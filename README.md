@@ -18,5 +18,9 @@ Se retornar um erro como "comando não encontrado" (command not found), signific
 Instalação e configuração
 
 Configure Git no seu computador com nome e e-mail.
-Prática: use git config --global user.name e git config --global user.email.
-Entrega: print ou nota das configurações aplicadas no README.
+
+Prática: No Terminal Git bash digite: 
+
+git config --global user.name 
+git config --global user.email.
+
