@@ -1,7 +1,12 @@
 
-# Meus estudos diários GIT e GITHUB
+# GIT e GITHUB
+
+![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=GitHub)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge)
  
 Este é um projeto para praticar Git.
+
 
 
 # História do Git
@@ -82,6 +87,15 @@ https://www.cursoemvideo.com/curso/curso-de-git-e-github/
 # Crie seu Octocat
 
 * https://myoctocat.com/
+
+
+Quer aprender GitHub e Gratuito?
+
+Links: https://www.youtube.com/watch?v=OeKzVjiiRm4&list=PLvlkVRRKOYFSpRkqnR0p2A-eaVlpLnN3D ,
+
+https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA 
+
+https://www.cursoemvideo.com/curso/curso-de-git-e-github/
 
 <img width="200" height="200" alt="octocat-1782793135842" src="https://github.com/user-attachments/assets/6b8b4c1b-968d-4556-abb6-a388c205f44d" />
 
